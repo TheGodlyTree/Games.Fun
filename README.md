@@ -1,2 +1,2 @@
-# Games.Fun
-Fun
+# This is a game site
+Have fun!
